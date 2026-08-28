@@ -5,7 +5,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Supabase-blue)
 ![Estado](https://img.shields.io/badge/estado-en%20producción-success)
 
-CRM multi-tenant para gestión de leads y seguimiento comercial, desarrollado en Spring Boot. **En producción y en uso activo.**
+CRM multi-tenant para gestión de leads y seguimiento comercial, desarrollado en Spring Boot. **En producción y en uso activo por un equipo de ventas entero.**
 
 > ⚠️ Este repositorio corresponde solo al **backend**. El frontend (React) vive en un repositorio aparte.
 
